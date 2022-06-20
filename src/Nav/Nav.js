@@ -5,3 +5,5 @@ function Nav() {
         <h2>Navbar goes here</h2>
     )
 }
+
+export default Nav;
