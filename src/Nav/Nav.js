@@ -7,6 +7,7 @@ function Nav() {
             <div className="navbar">
                 <Link to="/" className="navLink">About Me</Link>
                 <Link to="/EllerExperience" className="navLink">Experience and Education</Link>
+                <Link to="/EllerSkills" className="navLink">Skills and Technologies</Link>
             </div>
         </React.Fragment>
     )
